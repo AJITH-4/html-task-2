@@ -1,0 +1,56 @@
+.page{
+    padding: 80px;
+    margin: 5px;
+}
+.container{
+    padding: 5px;
+    border: 2px solid;
+    margin: 70px;
+    height: 470px;
+    width: 800px;
+}
+.header{
+    padding: 5px;
+    margin: 5px;
+}
+.seat{
+    padding: 5px;
+    margin: 5px;
+}
+
+.image{
+        display:flex;
+        text-align: center;
+        justify-content: center;
+        margin: 50px;
+        padding: 55px;
+        border: 2px solid;
+        height: 150px;
+        width: 100px;
+}
+.detail{
+    padding: 2px;
+    margin: 2px;
+}
+
+.text{
+    display: flex;
+    border: 2px solid;
+    padding: 10px;
+    margin: 10px;
+}
+.col1{
+    padding: 10px;
+    margin: 10px;
+}
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+.submit{
+    margin: 10px;
+}
+.cancel{
+    margin: 10px;
+}
